@@ -1,2 +1,1 @@
-# PortSwigger
 # Broken Access Control
